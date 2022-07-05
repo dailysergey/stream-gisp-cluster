@@ -1,0 +1,217 @@
+aiobotocore @ file:///home/sergey/.cache/pypoetry/artifacts/57/24/93/1b66462aac7613faa827d63bd08a2a4f1ffd74bef78b6caf0bf6cfc9ca/aiobotocore-2.3.4-py3-none-any.whl
+aiohttp @ file:///home/sergey/.cache/pypoetry/artifacts/c3/d1/97/85daa5493c9bf3eb25c509bc3eb629985f82b89336bfcb5adcb76b78fe/aiohttp-3.8.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+aiohttp-retry @ file:///home/sergey/.cache/pypoetry/artifacts/86/9c/e6/217d2e4c6c37ea4bc3df47fed368dd4ac621bd7cd77f03263360b3d3aa/aiohttp_retry-2.5.0-py3-none-any.whl
+aioitertools @ file:///home/sergey/.cache/pypoetry/artifacts/66/af/18/421084b2319c08b874b26d16e419a070f35d40f96f731fdc55326bbcbe/aioitertools-0.10.0-py3-none-any.whl
+aiosignal @ file:///home/sergey/.cache/pypoetry/artifacts/d3/d7/92/f7aa28b137b4b00e62270f58330cedde299917a71a3c00ee64913aa3c2/aiosignal-1.2.0-py3-none-any.whl
+altair @ file:///home/sergey/.cache/pypoetry/artifacts/54/fc/8c/c9ba0a0cd95f067ee6d710bbd9950f95c2e075d794ab8d077c4eeca065/altair-4.2.0-py3-none-any.whl
+appdirs @ file:///home/sergey/.cache/pypoetry/artifacts/47/cf/4f/4ef02fb715aa36daeebad18cc5570126159c659c41c7b5ec46a7387d9b/appdirs-1.4.4-py2.py3-none-any.whl
+argon2-cffi @ file:///home/sergey/.cache/pypoetry/artifacts/e5/36/34/bf219434f7144f39ec847b03dc7626b6d79dd2ce22f0dd27be6a6f2656/argon2_cffi-21.3.0-py3-none-any.whl
+argon2-cffi-bindings @ file:///home/sergey/.cache/pypoetry/artifacts/dc/7d/af/6367bb3a6693241419d236ecccbc664f4efa6b8bdebb6a5594e1508633/argon2_cffi_bindings-21.2.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+asttokens @ file:///home/sergey/.cache/pypoetry/artifacts/cc/f5/53/c8c73ee645bbb70b6b0ce34f55ed59b6f3f3238881f15a7e44ebe2ce2d/asttokens-2.0.5-py2.py3-none-any.whl
+async-timeout @ file:///home/sergey/.cache/pypoetry/artifacts/62/ff/30/bd0ec891880d93bf40cf6e7c53ab08dd9eb6af45fa532c030731e6eed0/async_timeout-4.0.2-py3-none-any.whl
+asyncssh @ file:///home/sergey/.cache/pypoetry/artifacts/06/23/9d/65e4898f2cb0dfcd3b6331bfa2e97bc5c0f4f3c8a1a77c05e4b1f9a59a/asyncssh-2.11.0-py3-none-any.whl
+atpublic @ file:///home/sergey/.cache/pypoetry/artifacts/93/a8/0a/70515f2a5327aabafc206d261a9ba9b3b9d122c6e5f1b298b5531f3cf4/atpublic-3.0.1-py3-none-any.whl
+attrs @ file:///home/sergey/.cache/pypoetry/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
+backcall @ file:///home/sergey/.cache/pypoetry/artifacts/43/8e/e8/4e598704edf6fb4a53d552ea511c04e9958dcf850897760e5387878b99/backcall-0.2.0-py2.py3-none-any.whl
+beautifulsoup4 @ file:///home/sergey/.cache/pypoetry/artifacts/5a/51/f6/ced036f2b2ef6b792e8138e7bd9584e5eac63a3d4481b6e62402d050c7/beautifulsoup4-4.11.1-py3-none-any.whl
+bleach @ file:///home/sergey/.cache/pypoetry/artifacts/4b/c1/10/5c27ed639f813cb93dc7844a6c9ff9f36477cd1787b62fc34080816fbe/bleach-5.0.1-py3-none-any.whl
+blinker @ file:///home/sergey/.cache/pypoetry/artifacts/80/f5/69/121d7a9c19924e7c996e4e59d73db84bdcb556f8587bf809606e4c2859/blinker-1.4.tar.gz
+bokeh @ file:///home/sergey/.cache/pypoetry/artifacts/c7/d9/df/becad2b68460d0b85fde735b67f223572295fb0e223b65fd5025e7a601/bokeh-2.4.1-py3-none-any.whl
+boto3 @ file:///home/sergey/.cache/pypoetry/artifacts/9c/8d/04/9c047b194bcd64a7d8278bb3c4327878c96616c499bbc4e7e9ed14438e/boto3-1.21.21-py3-none-any.whl
+botocore @ file:///home/sergey/.cache/pypoetry/artifacts/10/10/a1/3f07f9c4b4dfd9ef5e618d152dd31e39280722611db7b13d70b298df02/botocore-1.24.21-py3-none-any.whl
+CacheControl==0.12.11
+cachetools @ file:///home/sergey/.cache/pypoetry/artifacts/fc/26/11/cdf31f6b4bc9950c9bdb769dba152016191e40375ad3d4f89b585c19b6/cachetools-5.2.0-py3-none-any.whl
+cachy==0.3.0
+cdbw==0.2
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+cffi==1.15.0
+charset-normalizer==2.0.12
+cleo==0.8.1
+click @ file:///home/sergey/.cache/pypoetry/artifacts/9d/ca/2f/bc3cc4a294e96f355d01d24ac6fefdde4c6286f9f63b7ce1c91d5f0c22/click-8.1.3-py3-none-any.whl
+clikit==0.6.2
+colorama @ file:///home/sergey/.cache/pypoetry/artifacts/28/7e/1b/4d5c7485d20628c199b003e9107afc53d57aea621842a1bc23c31c0da1/colorama-0.4.5-py2.py3-none-any.whl
+commonmark @ file:///home/sergey/.cache/pypoetry/artifacts/11/56/f6/d054064b623fab5c7e4420f60d931f49fea2dacdebe1dc991201010c84/commonmark-0.9.1-py2.py3-none-any.whl
+configobj @ file:///home/sergey/.cache/pypoetry/artifacts/42/84/9e/6a42447d86f2258a3b48bbeb428a0f825564b2dbf7ed78eae2416a0a90/configobj-5.0.6.tar.gz
+crashtest==0.3.1
+cryptography @ file:///home/sergey/.cache/pypoetry/artifacts/59/22/20/50140dab844a9a6a940ae28a4495ad6470618097b7f5d86426a1b46542/cryptography-37.0.3-cp36-abi3-manylinux_2_24_x86_64.whl
+cycler==0.11.0
+Cython @ file:///home/sergey/.cache/pypoetry/artifacts/6e/e7/df/ac476d10c4e7109cb80ebbecf7125d3c9f59523832dde07fe5eda9a4d0/Cython-0.29.30-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
+debugpy @ file:///home/sergey/.cache/pypoetry/artifacts/0b/90/c5/09f9e165bf0fa5fda65a2dd4f25a465ca226abe5db822ba14e2ef24466/debugpy-1.6.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+decorator @ file:///home/sergey/.cache/pypoetry/artifacts/5d/5c/84/5cc4430045ad08424f907a400ea96b8345cbfec6d87285e47a6c449740/decorator-5.1.1-py3-none-any.whl
+defusedxml @ file:///home/sergey/.cache/pypoetry/artifacts/2b/69/07/7b13f7eaf3a4d7af737dcebe24d3d17b1c2a2f457fbddf746f5642bc43/defusedxml-0.7.1-py2.py3-none-any.whl
+dictdiffer @ file:///home/sergey/.cache/pypoetry/artifacts/bc/85/a4/4043bd24ee0498bfa674ee88c3b151fb29f0946a2b17b0f3e5f02c906b/dictdiffer-0.9.0-py2.py3-none-any.whl
+diskcache @ file:///home/sergey/.cache/pypoetry/artifacts/a9/29/b8/b917e96b35569d1afb8997420d39709b25303bff634e6cc27d794bdb0c/diskcache-5.4.0-py3-none-any.whl
+distlib==0.3.4
+distro @ file:///home/sergey/.cache/pypoetry/artifacts/ce/15/a0/295a54112007cd8112ede7e35e6660f5b904609fdb49b8d13805193946/distro-1.7.0-py3-none-any.whl
+dpath @ file:///home/sergey/.cache/pypoetry/artifacts/7c/ba/dd/0b2e0c72068f1f80e3050cbc8ccb9c336a39faea2a4b0659be32e74e21/dpath-2.0.6-py3-none-any.whl
+dulwich @ file:///home/sergey/.cache/pypoetry/artifacts/e1/27/32/ab56f2f5dec6b9ea2489e297abc6fb7c78fee9976a5e4828b3919b07c2/dulwich-0.20.43-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+dvc @ file:///home/sergey/.cache/pypoetry/artifacts/1d/2f/15/cf797242a3122eaa7bc15cadfa35b12cde72c6da08dd24c6abc229e82b/dvc-2.11.0-py3-none-any.whl
+dvc-data @ file:///home/sergey/.cache/pypoetry/artifacts/28/b9/f9/01a941f2fe47288ceaad811e71bdfe6b9abdd4e5a645b38f2e0d360a40/dvc_data-0.0.2-py3-none-any.whl
+dvc-objects @ file:///home/sergey/.cache/pypoetry/artifacts/ee/06/e3/2925835fbc11a56d8e5fc1f0ddc88f40bc0c7cab89995a3deb8e8be8c2/dvc_objects-0.0.2-py3-none-any.whl
+dvc-render @ file:///home/sergey/.cache/pypoetry/artifacts/09/09/80/7857e8256ee8fd38529515147f131877caf1007c57eb5cedd9da214e8e/dvc_render-0.0.5-py3-none-any.whl
+dvclive @ file:///home/sergey/.cache/pypoetry/artifacts/8b/90/cf/59623f3e86f65ea9b3f77f2afc77861774773a5f5a89295587fbebede3/dvclive-0.9.0-py2.py3-none-any.whl
+entrypoints @ file:///home/sergey/.cache/pypoetry/artifacts/10/55/52/5c15951eb2f567987c8f2c73e28fb010e3ccff5644f2386605bfd48e97/entrypoints-0.4-py3-none-any.whl
+executing @ file:///home/sergey/.cache/pypoetry/artifacts/db/dd/b5/f62d2b5c6262637d6343857b8979bc8f3de8d3b94ddf5fdeb7487e22e3/executing-0.8.3-py2.py3-none-any.whl
+fastjsonschema @ file:///home/sergey/.cache/pypoetry/artifacts/51/a2/30/5af5e821fc922b727915d082fd78d7d0a0150965a2ba422d73b6160edc/fastjsonschema-2.15.3-py3-none-any.whl
+filelock==3.7.1
+flatten-dict @ file:///home/sergey/.cache/pypoetry/artifacts/26/bb/15/9b7ce0da158ec2a7d5ea6bad65b1411625b78bdc4d4fadfee34f74c5a1/flatten_dict-0.4.2-py2.py3-none-any.whl
+flufl.lock @ file:///home/sergey/.cache/pypoetry/artifacts/a2/61/c1/e9c191c67d77050ce0539cedbe8f666feabb3550fa430dd826b8e76a6a/flufl.lock-7.0-py3-none-any.whl
+fonttools==4.33.3
+frozenlist @ file:///home/sergey/.cache/pypoetry/artifacts/ed/2c/87/e16164d5388ad4c9d0f19a5e24f8e5acf77ecf926aeb714dd7b8587f41/frozenlist-1.3.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+fsspec @ file:///home/sergey/.cache/pypoetry/artifacts/35/75/f1/67a7751f94e2f3ff1794dbd076143f30c2a98392fe6d5690173951a7fb/fsspec-2022.5.0-py3-none-any.whl
+ftfy @ file:///home/sergey/.cache/pypoetry/artifacts/74/bd/82/f784771e34d48a09065097c79b938950c8618665100a80d571b8927ebe/ftfy-6.1.1-py3-none-any.whl
+funcy @ file:///home/sergey/.cache/pypoetry/artifacts/fe/5e/e9/6164e1750f2bfe89d06b0b3ad2467b98cf301e719b3f87ac8c0d89b263/funcy-1.17-py2.py3-none-any.whl
+future @ file:///home/sergey/.cache/pypoetry/artifacts/f8/58/55/86be1f567b212fdd98854d12815964a49db8fb1bcff725018e5f95c61d/future-0.18.2.tar.gz
+gensim @ file:///home/sergey/.cache/pypoetry/artifacts/d6/fa/cb/e6b9be616587408a77576ab58f3742e9d43a572f3b8c5e993b0c13dbd1/gensim-4.2.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+gitdb @ file:///home/sergey/.cache/pypoetry/artifacts/90/22/b2/13e35fcefe45f6779d7507377070865acf263775bda5c08fff422c1a4d/gitdb-4.0.9-py3-none-any.whl
+GitPython @ file:///home/sergey/.cache/pypoetry/artifacts/c0/0a/c6/d3f006e6bd78795a03581a408b47eed8e5839bd35849453d0b65c005d5/GitPython-3.1.27-py3-none-any.whl
+grandalf @ file:///home/sergey/.cache/pypoetry/artifacts/e9/ea/ec/fb55474089afe12cba099e5db0b9ccba8ab571bc8f1ad988d10bebda6b/grandalf-0.6-py3-none-any.whl
+hdbscan @ file:///home/sergey/.cache/pypoetry/artifacts/6b/cd/50/1c204818663a9eb1c0c0916e2609c397293ba7fa4c5a2cd69e0fa7ddd2/hdbscan-0.8.28.tar.gz
+html5lib==1.1
+huggingface-hub @ file:///home/sergey/.cache/pypoetry/artifacts/90/a6/61/b9a37c4d5590b1fc8625e69f6a036ce51f6c98dc3bbfa15c65576ca787/huggingface_hub-0.8.1-py3-none-any.whl
+idna==3.3
+importlib-metadata==4.12.0
+ipykernel @ file:///home/sergey/.cache/pypoetry/artifacts/9e/6e/cb/0e1939b665a5555cfb796ad393b7c45a8c84c99e299bf246eb829efe68/ipykernel-6.15.0-py3-none-any.whl
+ipython @ file:///home/sergey/.cache/pypoetry/artifacts/e3/6b/26/ffb86abdea066f3796c96458b7ee36ef702d60c6c068855891a1abcc54/ipython-8.4.0-py3-none-any.whl
+ipython-genutils @ file:///home/sergey/.cache/pypoetry/artifacts/b4/31/01/6f96480580d1674cab0b5e26dc9fca7bbdf7a2fd5811a7807a92436268/ipython_genutils-0.2.0-py2.py3-none-any.whl
+ipywidgets @ file:///home/sergey/.cache/pypoetry/artifacts/ab/06/36/2b23fc2035f433dd2c8e7ef7a1a6f950cf764769d8945590351a163ad0/ipywidgets-7.7.1-py2.py3-none-any.whl
+jedi @ file:///home/sergey/.cache/pypoetry/artifacts/c0/16/7b/b208472f00204d5aaeb0895fcde8e681c56c250bdf8d106fa76cdf7b30/jedi-0.18.1-py2.py3-none-any.whl
+jeepney==0.8.0
+Jinja2 @ file:///home/sergey/.cache/pypoetry/artifacts/03/94/a8/08397f6fc37e01c8e8b6a33b514be99392ee894e8bff66c3a428238373/Jinja2-3.1.2-py3-none-any.whl
+jmespath @ file:///home/sergey/.cache/pypoetry/artifacts/47/4a/3b/a9383bff55951f714023b877568123ad04942cde6e4a4e79a921e3f2a6/jmespath-1.0.1-py3-none-any.whl
+joblib @ file:///home/sergey/.cache/pypoetry/artifacts/a6/ca/34/f3a58b34616787c399095242ae8633fc32e061f8f76debd987dcecb325/joblib-1.1.0-py2.py3-none-any.whl
+jsonschema @ file:///home/sergey/.cache/pypoetry/artifacts/72/55/ab/668cb4102e7c9950bf0ef988918765aa7277da772144a1cb293397e18f/jsonschema-4.6.0-py3-none-any.whl
+jupyter-client @ file:///home/sergey/.cache/pypoetry/artifacts/85/42/38/eb8fd3c266f7c5d1937d3a342d9c886e31091e0e510b6a4b315bc50cd9/jupyter_client-7.3.4-py3-none-any.whl
+jupyter-core @ file:///home/sergey/.cache/pypoetry/artifacts/ef/5e/73/cf319e80e962753a0d3d484fe3ee255b38477b3bb46919577d5227501c/jupyter_core-4.10.0-py3-none-any.whl
+jupyterlab-pygments @ file:///home/sergey/.cache/pypoetry/artifacts/f1/a8/50/4bab7da900b0830df0d56b5f4ce36524157145684612173c03f50faaf5/jupyterlab_pygments-0.2.2-py2.py3-none-any.whl
+jupyterlab-widgets @ file:///home/sergey/.cache/pypoetry/artifacts/ba/e2/3c/f30916ae88759a302e9cdb816dcb3835c31a7cb611fdcb72ffe431505a/jupyterlab_widgets-1.1.1-py3-none-any.whl
+keyring==23.6.0
+kiwisolver==1.4.3
+llvmlite @ file:///home/sergey/.cache/pypoetry/artifacts/a2/8c/f7/fb46e43dbf81402009bb029d69bc75cf41de2a77f3a45328df8497c53e/llvmlite-0.38.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+lockfile==0.12.2
+mailchecker @ file:///home/sergey/.cache/pypoetry/artifacts/72/49/a5/bf491277bdfaee78cc7ae7bba88efa015c1a6bda8f81aff6d65a55a0e7/mailchecker-4.1.17.tar.gz
+MarkupSafe @ file:///home/sergey/.cache/pypoetry/artifacts/f4/6d/d3/a9a915049dea17a65026c9ac187154834bfe6c9174f0dd25e602f28c45/MarkupSafe-2.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+matplotlib==3.5.2
+matplotlib-inline @ file:///home/sergey/.cache/pypoetry/artifacts/b5/de/c6/6384d0999287fcdc9e88d38f7951106dcb7ffac7c4e8c0d0c665e12cac/matplotlib_inline-0.1.3-py3-none-any.whl
+mistune @ file:///home/sergey/.cache/pypoetry/artifacts/33/31/4c/2d69dc65d06d1c8f8b00b8e995e24bae97fce2e1f8ec5d8d2d98e852da/mistune-0.8.4-py2.py3-none-any.whl
+msgpack==1.0.4
+multidict @ file:///home/sergey/.cache/pypoetry/artifacts/12/d0/ef/0b7b9499611ab1817c3e84fb92c039a4fb5ac1d0397a3b86f4c5283108/multidict-6.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+nanotime @ file:///home/sergey/.cache/pypoetry/artifacts/a9/b8/91/d0d501b058937b6f36d23f5f57d65853e4f250abe668f3c90d69c498bc/nanotime-0.5.2.tar.gz
+nbclient @ file:///home/sergey/.cache/pypoetry/artifacts/1e/7c/3b/89d72f12d8daa8bcd70b4f425b46f40f4000c3deaa91aba951197eb862/nbclient-0.6.4-py3-none-any.whl
+nbconvert @ file:///home/sergey/.cache/pypoetry/artifacts/40/14/00/f3dae17d156de68274a89bb240e2cc549d5cb94025b23181e25131142b/nbconvert-6.5.0-py3-none-any.whl
+nbformat @ file:///home/sergey/.cache/pypoetry/artifacts/cf/a6/72/1a34cada7f7f276bac57e6533faf09b2e405c4b0c663789757d9d13e30/nbformat-5.4.0-py3-none-any.whl
+nest-asyncio @ file:///home/sergey/.cache/pypoetry/artifacts/52/b1/2c/067adcc406e36dae1d02c111c69c4ab4b9d7ac073acc292c39711e206e/nest_asyncio-1.5.5-py3-none-any.whl
+networkx @ file:///home/sergey/.cache/pypoetry/artifacts/e9/25/f7/6d01928abd4a6e229aaca75fb3bfa3be1c153a500ffcbe82e0b2eeaad4/networkx-2.8.2-py3-none-any.whl
+notebook @ file:///home/sergey/.cache/pypoetry/artifacts/ea/0b/a3/dea39206415d8cb6d2a5fa6c35567cc85207162b16c69e7c0d3ff60aec/notebook-6.4.12-py3-none-any.whl
+numba @ file:///home/sergey/.cache/pypoetry/artifacts/9d/e0/bf/7cde8c92d9a52f5b87626276567f25a5894e33f16e217c784b29631717/numba-0.55.2-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+numpy @ file:///home/sergey/.cache/pypoetry/artifacts/b3/f2/29/8eb1a0e5b6e16b36048ef4c7147ae34598deb3ec19c4e8cb5f8512aeee/numpy-1.22.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+packaging==20.9
+pandas @ file:///home/sergey/.cache/pypoetry/artifacts/75/6c/8f/af4ae50a0c34916299eb40913054966b4eba8d6411f576a97016aba6bf/pandas-1.4.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pandocfilters @ file:///home/sergey/.cache/pypoetry/artifacts/31/93/b3/c3f289a2e857d460f34581e351cfe3ac509300d47c487f135c96e39349/pandocfilters-1.5.0-py2.py3-none-any.whl
+parso @ file:///home/sergey/.cache/pypoetry/artifacts/4e/d3/c5/d91e200388f1ce44b74484eb39fbfd0797eb236741d3672a7d728668b2/parso-0.8.3-py2.py3-none-any.whl
+pastel==0.2.1
+pathlib @ file:///home/sergey/.cache/pypoetry/artifacts/43/3b/d5/cb7e6db5898cd87d5102e20122c2b2404f1913641ffc7a55f4edd3432f/pathlib-1.0.1-py3-none-any.whl
+pathspec @ file:///home/sergey/.cache/pypoetry/artifacts/0a/67/21/620031f7f2938bad77b057a68a4c2a334542a7402a3214ed48690caf8c/pathspec-0.9.0-py2.py3-none-any.whl
+pexpect==4.8.0
+phonenumbers @ file:///home/sergey/.cache/pypoetry/artifacts/9f/59/60/ee7574d6f797a5f937e6027d73936a7f882b1d1627fce0e7a5b84c7919/phonenumbers-8.12.50-py2.py3-none-any.whl
+pickleshare @ file:///home/sergey/.cache/pypoetry/artifacts/b5/48/a1/d2b823337003d531d87cf0d503ef28bb579703a74d14ad24a88863d616/pickleshare-0.7.5-py2.py3-none-any.whl
+Pillow @ file:///home/sergey/.cache/pypoetry/artifacts/ce/be/c7/6a256ece0a01051ec64b8473bfc795b52c2f1d81a84968cb7e149261b6/Pillow-9.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pkginfo==1.8.3
+platformdirs==2.5.2
+plotly==5.9.0
+poethepoet==0.14.0
+poetry-core==1.0.8
+prettytable @ file:///home/sergey/.cache/pypoetry/artifacts/e4/9d/6c/a16d31a6aa5f7e24dedc0748dde535e45b193a9ef3572f9373a9f42522/prettytable-3.3.0-py3-none-any.whl
+prometheus-client @ file:///home/sergey/.cache/pypoetry/artifacts/24/c6/aa/f9c61e2b8841d7b33bf840a8fbd5481e9103b01402f8b5889758a9f5cb/prometheus_client-0.14.1-py3-none-any.whl
+prompt-toolkit @ file:///home/sergey/.cache/pypoetry/artifacts/01/8f/75/63a75108249464a01ab3572ec8f9b21a70cfaa446b16c2b65e85d09693/prompt_toolkit-3.0.30-py3-none-any.whl
+protobuf @ file:///home/sergey/.cache/pypoetry/artifacts/30/0a/f0/5f9aff50877c691e404f92d476344e8d6a019fe5984fad985eb8421912/protobuf-3.20.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+psutil @ file:///home/sergey/.cache/pypoetry/artifacts/5d/ed/a4/4b3026a45775445ff2b2d856c24548f80d54957cb86ca7391beaf2af7a/psutil-5.9.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+psycopg2 @ file:///home/sergey/.cache/pypoetry/artifacts/f6/49/78/b89af907a751026c6e97a38dca440a0d7eefc89601c8a58df0569153a2/psycopg2-2.9.3.tar.gz
+ptyprocess==0.7.0
+pure-eval @ file:///home/sergey/.cache/pypoetry/artifacts/b4/e9/b2/1b0a1d953cf0bfaf71e297cb566c0b57ee2a8848baed30c261ef22fae7/pure_eval-0.2.2-py3-none-any.whl
+pyarrow @ file:///home/sergey/.cache/pypoetry/artifacts/cd/0b/5d/3d8b99d1e6ebbfa2f40dc0de2821d89a89909f8535f31551e67b18b213/pyarrow-8.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pycparser==2.21
+pydeck @ file:///home/sergey/.cache/pypoetry/artifacts/4d/70/25/0e0081fa9e1a2a114bc5438bb54fc29c881960b27737872b61573eb60b/pydeck-0.7.1-py2.py3-none-any.whl
+pydot @ file:///home/sergey/.cache/pypoetry/artifacts/c8/4f/5c/d8455b585f848bd20042e67558c2cf4595726b99d829999e2cebb7f30d/pydot-1.4.2-py2.py3-none-any.whl
+pyecharts @ file:///home/sergey/.cache/pypoetry/artifacts/d9/4f/00/387c4001a4da4210a74757cb9569f6f2b62520506dc5e30223fb54046d/pyecharts-1.9.1-py3-none-any.whl
+pygit2 @ file:///home/sergey/.cache/pypoetry/artifacts/87/dd/d5/36473d23061450bba6994822f1e336e65044df3a76c944e9d796620694/pygit2-1.9.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+Pygments @ file:///home/sergey/.cache/pypoetry/artifacts/7b/08/56/6328ccebb5deef75b77c4ac4fae65b8e5302a1c0b847754cd4c5063f9e/Pygments-2.12.0-py3-none-any.whl
+pygtrie @ file:///home/sergey/.cache/pypoetry/artifacts/5c/9d/a2/deb0808e2dbd697648e33d82b8c5ef012a1151bfc95d969add519b2314/pygtrie-2.4.2.tar.gz
+pylev==1.4.0
+Pympler @ file:///home/sergey/.cache/pypoetry/artifacts/cb/da/55/2bcb32c4b7aecda5a054b973feb3b0f4fbdb55c79fd5264d42d8f2585a/Pympler-1.0.1-py3-none-any.whl
+pynndescent @ file:///home/sergey/.cache/pypoetry/artifacts/07/80/3b/9a6bbe6161e325537d8f062a6c853dc8460187c719835a828cfaba6b16/pynndescent-0.5.7.tar.gz
+pyparsing==3.0.9
+pyrsistent @ file:///home/sergey/.cache/pypoetry/artifacts/0a/90/60/922630fb195d328e65883c7ca534e135921b3a28c1473b2468ff04c147/pyrsistent-0.18.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+python-benedict @ file:///home/sergey/.cache/pypoetry/artifacts/06/fc/9a/f3b611aee236d2056915fbc3fb7366c418645065d18f61607a9c3da66e/python_benedict-0.25.1-py3-none-any.whl
+python-dateutil @ file:///home/sergey/.cache/pypoetry/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
+python-dotenv==0.19.2
+python-fsutil @ file:///home/sergey/.cache/pypoetry/artifacts/9a/85/63/5eb018ad1e16cb34426a655628cb3fb78b28769e3e1e69fe3bae6036a6/python_fsutil-0.6.1-py3-none-any.whl
+python-slugify @ file:///home/sergey/.cache/pypoetry/artifacts/cd/7c/27/fe538c0c324aee3dfe95647d072e385f6301117d9cd3dc77ecd50c5dea/python_slugify-6.1.2-py2.py3-none-any.whl
+pytz @ file:///home/sergey/.cache/pypoetry/artifacts/fb/60/46/e704d81037c87ab74c6677ae79ab43dda85c31e3ae38f53c44486b593a/pytz-2022.1-py2.py3-none-any.whl
+pytz-deprecation-shim @ file:///home/sergey/.cache/pypoetry/artifacts/3a/d6/49/88d13233f48d022d644aca3a5eaf48d5ab7c9273ed9874e3b46f783ea5/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl
+PyYAML==5.4.1
+pyzmq @ file:///home/sergey/.cache/pypoetry/artifacts/20/cd/f5/c87f03a474c8ec288bd42ba41e680ee9ebd3ed1ba314e151fc4f514bf1/pyzmq-23.2.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+regex @ file:///home/sergey/.cache/pypoetry/artifacts/bd/30/44/1cbc5fd9b67b3a4a00f0f919d19cef67dc0a12ffb3c84e1abf588e1b98/regex-2022.6.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+requests==2.28.0
+requests-toolbelt==0.9.1
+rich @ file:///home/sergey/.cache/pypoetry/artifacts/75/b2/7e/cbc8a075a6318a98ac06848a183696936d11430bd373be488dc0ef50ce/rich-12.4.4-py3-none-any.whl
+ruamel.yaml @ file:///home/sergey/.cache/pypoetry/artifacts/7c/2c/48/111028a9e95097a5ff404a2dc3c1990c911bec7802cb01366c06a9919d/ruamel.yaml-0.17.21-py3-none-any.whl
+ruamel.yaml.clib @ file:///home/sergey/.cache/pypoetry/artifacts/52/95/75/d1a001b469ea6ed66dd6f4194c9f7eb370223816cf6292be2a8213e9a4/ruamel.yaml.clib-0.2.6-cp39-cp39-manylinux1_x86_64.whl
+s3fs @ file:///home/sergey/.cache/pypoetry/artifacts/56/3e/5b/7a2a9ba5fb2c4b424cfc5999f7b0379c39d32ca7b3ba4aeb61d19f5f44/s3fs-2022.5.0-py3-none-any.whl
+s3transfer @ file:///home/sergey/.cache/pypoetry/artifacts/37/ce/4f/6e340791b443e17e70194b28ffae5c244fefaba8c5ec34fe26803ae32c/s3transfer-0.5.2-py3-none-any.whl
+scikit-learn @ file:///home/sergey/.cache/pypoetry/artifacts/2f/0a/7c/a4e5273a7f233c805f8de6e01f2366d6e43cdcc9476141e7a003000741/scikit_learn-1.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+scipy @ file:///home/sergey/.cache/pypoetry/artifacts/cf/0a/d8/9c8583eb1de03f7e0e878a2047de040d0085460feb91a84f9f280e0c51/scipy-1.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+scmrepo @ file:///home/sergey/.cache/pypoetry/artifacts/f9/5b/bd/be4b2fc1f5856a5cbe9f038c0760eb163e04615a0078d86d57cf763208/scmrepo-0.0.24-py3-none-any.whl
+seaborn==0.11.2
+SecretStorage==3.3.2
+semver @ file:///home/sergey/.cache/pypoetry/artifacts/ef/71/a9/1d9f75ab1d139ce3a51010fd1271a67cd80959fd6959e6295145f74f97/semver-2.13.0-py2.py3-none-any.whl
+Send2Trash @ file:///home/sergey/.cache/pypoetry/artifacts/63/2c/10/d48818ab0722d2d6ac42f70c8b9b6567ff3a7936bdc06dedddda4398b8/Send2Trash-1.8.0-py3-none-any.whl
+sentencepiece @ file:///home/sergey/.cache/pypoetry/artifacts/82/c3/b5/7dcf4928f5159deaba8f451549bd8b063b13e500873857524fc8f893c9/sentencepiece-0.1.96-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+shellingham==1.4.0
+shortuuid @ file:///home/sergey/.cache/pypoetry/artifacts/92/2b/d4/a93e8b04695dcd56ce617f6c55e656b105bc136c0beec6c42a12406450/shortuuid-1.0.9-py3-none-any.whl
+shtab @ file:///home/sergey/.cache/pypoetry/artifacts/81/17/fa/514d4b1ffe99edd432d80a14e34b2864068c196b355a72ec3f5f2bcff2/shtab-1.5.5-py2.py3-none-any.whl
+simplejson @ file:///home/sergey/.cache/pypoetry/artifacts/74/ff/d5/3b6b206b22b5a32fc6fd5bec9855f32d3cd7e13011d223f30eb9593ac2/simplejson-3.17.6-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+six==1.16.0
+smart-open @ file:///home/sergey/.cache/pypoetry/artifacts/26/4a/9d/9cbf0be94c0b4cd52eab6c23c7ab5307c7f3e197977b5edc554b148f99/smart_open-6.0.0-py3-none-any.whl
+smmap @ file:///home/sergey/.cache/pypoetry/artifacts/76/3f/89/377e56f6e08e5b1fa88da762382b4c9c817c6dd24eae2e0e190898511d/smmap-5.0.0-py3-none-any.whl
+soupsieve @ file:///home/sergey/.cache/pypoetry/artifacts/b7/15/27/3ba8eed3fabe07703423999fa8c50ba16ab30344fb2670163cb6510481/soupsieve-2.3.2.post1-py3-none-any.whl
+stack-data @ file:///home/sergey/.cache/pypoetry/artifacts/65/bb/3e/a20c25fc6a7cb89ff5ec8f0b8e5511743ed0854219b5ca33892ecf8cef/stack_data-0.3.0-py3-none-any.whl
+streamlit @ file:///home/sergey/.cache/pypoetry/artifacts/1d/e0/92/a5cde732ea10537423c534a8e5d2d06d319680c506708b2bd0dfdf3e4e/streamlit-1.10.0-py2.py3-none-any.whl
+streamlit-aggrid==0.2.3.post2
+streamlit-echarts @ file:///home/sergey/.cache/pypoetry/artifacts/57/d3/0b/454acb1b4d9cc275de5149119fe8dc7010845d9287d223806164a32058/streamlit_echarts-0.4.0-py3-none-any.whl
+tabulate @ file:///home/sergey/.cache/pypoetry/artifacts/8e/f2/fe/489189568a5d8b03c590746053ab332ab2437024920b4fb919860bcc48/tabulate-0.8.10-py3-none-any.whl
+tenacity==8.0.1
+terminado @ file:///home/sergey/.cache/pypoetry/artifacts/39/1c/b8/556656ea7b6095ef0493ddda82746959eccc8cb8b821349f9040443084/terminado-0.15.0-py3-none-any.whl
+text-unidecode @ file:///home/sergey/.cache/pypoetry/artifacts/34/f9/c2/484c44b08bab89d472229bbd257fcc1d1c6273ee027f01cb08c4e3c309/text_unidecode-1.3-py2.py3-none-any.whl
+threadpoolctl @ file:///home/sergey/.cache/pypoetry/artifacts/a1/99/8f/521268b618d08b18c198e13411a00fa56ff22bc2129adfbec84c73bc21/threadpoolctl-3.1.0-py3-none-any.whl
+tinycss2 @ file:///home/sergey/.cache/pypoetry/artifacts/04/bc/7b/02f33a7871334962f9835eb7fef0d51cd05d1654014e99e1d38e45ff66/tinycss2-1.1.1-py3-none-any.whl
+tokenizers @ file:///home/sergey/.cache/pypoetry/artifacts/c2/26/29/c82756acf2eb98515641ed245bcfba309befeabf3f2566bf004abeaff5/tokenizers-0.12.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli==2.0.1
+tomlkit==0.11.0
+toolz @ file:///home/sergey/.cache/pypoetry/artifacts/14/14/07/68f3796f01e5cbd3a8bfa033f4eed3f040c5af27bb9cf8e80b8591c89d/toolz-0.11.2-py3-none-any.whl
+torch==1.11.0+cu113
+torg-clusterization==0.1.0
+tornado @ file:///home/sergey/.cache/pypoetry/artifacts/32/ff/76/0fc7d26eab2180c92fa57552212f38defaf212ceb7ddc9432bd84d646c/tornado-6.1-cp39-cp39-manylinux2010_x86_64.whl
+tqdm @ file:///home/sergey/.cache/pypoetry/artifacts/3a/b7/13/b090aa58dfd125789ca63707e9974bad5a93301bb1b42d93ecdc7c6f92/tqdm-4.64.0-py2.py3-none-any.whl
+traitlets @ file:///home/sergey/.cache/pypoetry/artifacts/77/5a/15/ef9abb36f84bcb929cab295f74a829aeaab4cc3b6f8834049674fc5570/traitlets-5.3.0-py3-none-any.whl
+transformers @ file:///home/sergey/.cache/pypoetry/artifacts/92/6e/65/678855ce27c810e09bd51fcc2b42e682825611b57199cd47e4e29b7ff0/transformers-4.20.1-py3-none-any.whl
+typing_extensions @ file:///home/sergey/.cache/pypoetry/artifacts/42/92/dc/6b3758ddcb04f4bd6dd7af2fddeb1de89e3a962846c5221285fa39a33d/typing_extensions-4.2.0-py3-none-any.whl
+tzdata @ file:///home/sergey/.cache/pypoetry/artifacts/84/84/ee/e244d61e3704397a6ab9fc569c96b67a525fbb9e0ddcc5ef59efd23c25/tzdata-2022.1-py2.py3-none-any.whl
+tzlocal @ file:///home/sergey/.cache/pypoetry/artifacts/7b/d8/9d/92c514cf990627f85b733cf0ed020c210c11cde4acce279c437be3bd9c/tzlocal-4.2-py3-none-any.whl
+umap-learn @ file:///home/sergey/.cache/pypoetry/artifacts/b6/b5/5d/b7a599043fa5b6a44061fe741d0fa9f9280bbc69832e6c8343432f57db/umap-learn-0.5.3.tar.gz
+urllib3==1.26.9
+validators @ file:///home/sergey/.cache/pypoetry/artifacts/82/ec/6d/63b27eb12b93dcee9cef88d9718e100fcce4d6b765b35679061a6b31f5/validators-0.20.0.tar.gz
+virtualenv==20.15.0
+voluptuous @ file:///home/sergey/.cache/pypoetry/artifacts/bd/da/88/b1a5b09b21297dc9f475eff44d11ad463305018920e497401be7c629a9/voluptuous-0.13.1-py3-none-any.whl
+watchdog @ file:///home/sergey/.cache/pypoetry/artifacts/98/31/68/38c3c6a7cae558f6697007c25042a110e27edb2f65f2f39a986a7f38f1/watchdog-2.1.9-py3-none-manylinux2014_x86_64.whl
+wcwidth @ file:///home/sergey/.cache/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
+webencodings==0.5.1
+widgetsnbextension @ file:///home/sergey/.cache/pypoetry/artifacts/1e/8e/6e/d247fb1094357112e5816c8beef3ae1c6a30860b7ab5576526f63937d2/widgetsnbextension-3.6.1-py2.py3-none-any.whl
+wrapt @ file:///home/sergey/.cache/pypoetry/artifacts/b5/10/a0/dcd508d56ed33ddc780ef9ff01acd998c35d6a8888a54d9bd2a74f2550/wrapt-1.14.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+xmltodict @ file:///home/sergey/.cache/pypoetry/artifacts/f5/48/be/321e8277ab24b3e53299eaf8d49ebf95b7b19d975cc4ee66e2da9cd154/xmltodict-0.13.0-py2.py3-none-any.whl
+yarl @ file:///home/sergey/.cache/pypoetry/artifacts/a3/6b/bb/af40f3ac1dfb8650848efd34d43176c01039c7203c8f8f615543baf9d2/yarl-1.7.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+zc.lockfile @ file:///home/sergey/.cache/pypoetry/artifacts/b5/a8/c8/e94e98335e585be92e35e5d07dd8a75e5c2e7774c8bd24410160f9cfe0/zc.lockfile-2.0-py2.py3-none-any.whl
+zipp==3.8.0
