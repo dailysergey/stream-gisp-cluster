@@ -4,13 +4,14 @@ from operator import itemgetter
 import streamlit as st
 import pandas as pd
 
-import matplotlib.pyplot as plt
 from PIL import Image
 import requests
 
 from collections import Counter, OrderedDict
 from ast import literal_eval
 import numpy as np
+import os
+import urllib
 
 #---------------------------------#
 # Page layout
@@ -30,23 +31,37 @@ st.markdown("""
 Приложение создано исключительно с целью предоставить результаты экспериментов!
 """)
 
+necessary_files = ['results.csv', 'products_name.csv',
+                   'okpd2.csv', 'ktru.csv', 'products_df_rubert-tiny.csv']
+for file_name in necessary_files:
+
+    # download files locally
+
+    if not os.path.isfile(file_name):
+        with st.spinner('Скачиваем файлы. Это делается один раз и занимает минуту...'):
+            try:
+                st.info(f'{file_name} скачивается')
+                urllib.request.urlretrieve(main_dir, file_name, show_progress)
+                st.success(f'{file_name} скачался')
+            except Exception as e:
+                st.error(f'{file_name} не скачался. Ошибка: {e}')
 
 # Table with metrics Siluette, DBCV
 # header
 st.markdown('Полученные метрики кластеризации для 100тыс. товаров')
 
-results = pd.read_csv(main_dir / "results.csv")
+results = pd.read_csv(f'{main_dir}/results.csv')
 st.table(results)
 
 
 # Полученные шаблоны
-product_names = pd.read_csv(main_dir / 'products_name.csv')
+product_names = pd.read_csv(f'{main_dir}/products_name.csv')
 
 
 @st.cache(allow_output_mutation=True)
 def get_products_df(path):
 
-    products_df = pd.read_csv(main_dir / path)
+    products_df = pd.read_csv(f'{main_dir}/{path}')
     products_df['okpd2'].fillna(0, inplace=True)
     products_df['ktru'].fillna(0, inplace=True)
 
@@ -55,9 +70,9 @@ def get_products_df(path):
 
 @st.cache(allow_output_mutation=True)
 def get_okpd2_ktru():
-    okpd2_df = pd.read_csv(main_dir / "okpd2.csv", index_col="id")
+    okpd2_df = pd.read_csv(f'{main_dir}/okpd2.csv', index_col="id")
     okpd2_df.loc[0] = {'name': "Не определено"}
-    ktru_df = pd.read_csv(main_dir / "ktru.csv", index_col="id")
+    ktru_df = pd.read_csv(f'{main_dir}/ktru.csv', index_col="id")
     ktru_df.loc[0] = {'name': "Не определено"}
     return okpd2_df, ktru_df
 
