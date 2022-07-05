@@ -17,6 +17,7 @@ import urllib
 # download with progress bar
 mybar = None
 
+
 def show_progress(block_num, block_size, total_size):
     global mybar
     if mybar is None:
@@ -26,7 +27,8 @@ def show_progress(block_num, block_size, total_size):
         mybar.progress(downloaded)
     else:
         mybar.progress(1.0)
-        
+
+
 #---------------------------------#
 # Page layout
 # Page expands to full width
@@ -50,15 +52,17 @@ necessary_files = ['results.csv', 'products_name.csv',
 for file_name in necessary_files:
 
     # download files locally
-
     if not os.path.isfile(file_name):
         with st.spinner('Скачиваем файлы. Это делается один раз и занимает минуту...'):
             try:
-                st.info(f'{file_name} скачивается')
+                #st.info(f'{file_name} скачивается')
+                print(f'{file_name} скачивается')
                 urllib.request.urlretrieve(main_dir, file_name, show_progress)
-                st.success(f'{file_name} скачался')
+                #st.success(f'{file_name} скачался')
+                print((f'{file_name} скачался'))
             except Exception as e:
-                st.error(f'{file_name} не скачался. Ошибка: {e}')
+                #st.error(f'{file_name} не скачался. Ошибка: {e}')
+                print(f'{file_name} не скачался. Ошибка: {e}')
 
 # Table with metrics Siluette, DBCV
 # header
