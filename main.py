@@ -13,6 +13,20 @@ import numpy as np
 import os
 import urllib
 
+
+# download with progress bar
+mybar = None
+
+def show_progress(block_num, block_size, total_size):
+    global mybar
+    if mybar is None:
+        mybar = st.progress(0.0)
+    downloaded = block_num * block_size / total_size
+    if downloaded <= 1.0:
+        mybar.progress(downloaded)
+    else:
+        mybar.progress(1.0)
+        
 #---------------------------------#
 # Page layout
 # Page expands to full width
