@@ -1,1 +1,1 @@
-# stream-gisp-cluster
+# streamlit-gisp-cluster
